@@ -68,11 +68,5 @@
       "description": "a message that should be shown on /cancel",
       "required": false
     }
-  },
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "free"
-    }
   }
 }
